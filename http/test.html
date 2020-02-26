@@ -1,0 +1,42 @@
+<html>
+
+	<head>
+		<title>
+		</title>
+	</head>
+
+	<body>
+		<video id="my-video" class="video-js" playsinline controls preload="auto" controlslist="nodownload" controlslist="nofullscreen" width="100%" height="240"
+																																			   poster="" data-setup="{}">
+			<source src="" type="video/mp4">
+				<source src="" type="video/ogg">
+					<source src="" type="video/webm">
+						<p class="vjs-no-js"> To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a> </p>
+		</video>
+
+	</body>
+
+	<script >
+
+	var video = document.getElementById("my-video");
+	window.URL = window.URL || window.webkitURL;
+	var xhr = new XMLHttpRequest();
+	var play_url = '/user/mp4';
+	xhr.open("GET", play_url, true);
+	xhr.responseType = "blob";
+	xhr.onload = function() {
+	if (this.status == 200) {
+	var blob = this.response;
+	console.log(blob);
+	video.onload = function(e) {
+	window.URL.revokeObjectURL(video.src);
+	};
+	video.src = window.URL.createObjectURL(blob);
+	}
+	}
+	xhr.send();
+
+	</script>
+
+
+</html>
