@@ -1,0 +1,32 @@
+错误信息
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:Transaction (Process ID 113) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:Transaction (Process ID 100) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:The INSERT statement conflicted with the CHECK constraint"UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:The INSERT statement conflicted with the CHECK constraint"UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect". The statement has been terminated.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:Transaction (Process ID 63) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:Transaction (Process ID 108) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:Transaction (Process ID 89) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:Transaction (Process ID 97) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:Transaction (Process ID 92) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:Transaction (Process ID 78) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:Transaction (Process ID 91) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:Transaction (Process ID 89) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:Transaction (Process ID 110) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:Transaction (Process ID 94) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:Transaction (Process ID 62) was deadlocked on lock | communication buffer resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.
+未定义错误:The INSERT statement conflicted with the CHECK constraint "UserHash". The conflict occurred in database "base_cluplate", table "dbo.takecorrect".The statement has been terminated.

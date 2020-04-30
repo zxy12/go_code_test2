@@ -13,4 +13,6 @@ func main() {
 	r := fmt.Sprintf("%03v", rand.Intn(1000))
 	fmt.Println(r)
 
+
+
 }
