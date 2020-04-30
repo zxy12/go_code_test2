@@ -1,0 +1,15 @@
+var comType ComType
+t.Ctx = context
+t.UID = action.GetUserId(context)
+convType := context.Input.Query("conv_type")
+action := context.Input.Query("action")
+fsids := context.Input.Query("fsid")
+str_fsids := context.Input.Query("str_fsid")
+t.DeviceID = context.Input.Query("device_id")
+taskid := context.Input.Query("taskid")
+t.VipType = context.Input.Header("USER_VIP_TYPE")
+isVip := context.Input.Header("USER_IS_VIP")
+tasklist := context.Input.Query("tasklist")
+t.Passwd = context.Input.Query("passwd")
+is_used_count := context.Input.Query("is_used_count")
+is_hidden := context.Input.Query("is_hidden")
