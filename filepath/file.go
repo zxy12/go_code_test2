@@ -18,4 +18,6 @@ func main() {
 	fmt.Println(newPath)
 	fmt.Println(filepath.Dir(path) + "/" + strings.TrimSuffix(filepath.Base(path), ".pdf") + ".docx")
 
+	fmt.Println(strings.TrimPrefix(filepath.Ext(path), "."))
+
 }
